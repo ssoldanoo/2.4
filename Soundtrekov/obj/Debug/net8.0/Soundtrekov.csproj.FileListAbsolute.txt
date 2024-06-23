@@ -1,0 +1,12 @@
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/bin/Debug/net8.0/Soundtrekov
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/bin/Debug/net8.0/Soundtrekov.dll
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/bin/Debug/net8.0/Soundtrekov.pdb
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/Soundtrekov.csproj.AssemblyReference.cache
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/Soundtrekov.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/Soundtrekov.AssemblyInfoInputs.cache
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/Soundtrekov.AssemblyInfo.cs
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/Soundtrekov.csproj.CoreCompileInputs.cache
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/Soundtrekov.sourcelink.json
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/Soundtrekov.dll
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/refint/Soundtrekov.dll
+/Users/aleksej/Documents/Учёба/C#/Soundtrekov/Soundtrekov/obj/Debug/net8.0/Soundtrekov.pdb
